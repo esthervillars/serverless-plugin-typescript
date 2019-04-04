@@ -34,7 +34,7 @@
     "mock-fs": "4.8.0",
     "ts-jest": "24.0.1",
     "tslint": "5.14.0",
-    "typescript": "^3.4.1"
+    "typescript": "3.4.1"
   },
   "dependencies": {
     "fs-extra": "^7.0.1",
